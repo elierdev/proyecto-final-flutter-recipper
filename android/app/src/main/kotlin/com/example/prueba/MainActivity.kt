@@ -1,4 +1,4 @@
-package com.example.prueba
+package com.example.recipper
 
 import io.flutter.embedding.android.FlutterActivity
 
